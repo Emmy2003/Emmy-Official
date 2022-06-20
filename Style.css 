@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Sans-Serif;
+} 
+.heaad{
+  min-height: 100vh;
+  width: 100%;
+  background-image: url(images./FB_IMG_16544528034418021-1.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
